@@ -5,6 +5,9 @@ Ready environments for [Dendrite](https://github.com/fel88/Dendrite)
 ## Object detection
 
 1. [RetinaFace](/RetinaFace)
+## Image processing
+
+1. [MonoDepth](/MonoDepth)
 
 # How to use 
 ## Single image process
