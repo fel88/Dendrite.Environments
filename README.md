@@ -9,6 +9,10 @@ Ready environments for [Dendrite](https://github.com/fel88/Dendrite)
 
 1. [MonoDepth](/MonoDepth)
 
+## Text detection
+
+1. [CRAFT](/CRAFT)
+
 # How to use 
 ## Single image process
 1. Load .den file to Dendrite (Model->Inference->Simple)
