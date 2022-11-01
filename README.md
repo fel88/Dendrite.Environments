@@ -28,3 +28,6 @@ Ready environments for [Dendrite](https://github.com/fel88/Dendrite)
 4. Wait until inference will be completed
 5. Open result video and check it out
 
+## .DEN file format
+
+.den file is a zip archive with an ONNX (or caffemodel, etc..) file and a pipeline configuration inside
