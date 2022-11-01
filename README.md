@@ -8,6 +8,7 @@ Ready environments for [Dendrite](https://github.com/fel88/Dendrite)
 ## Image processing
 
 1. [MonoDepth](/MonoDepth)
+2. [StyleTransfer](/StyleTransfer)
 
 ## Text detection
 
