@@ -2,6 +2,9 @@
 Ready environments for [Dendrite](https://github.com/fel88/Dendrite)
 
 # Supported models
+## Image classification
+
+1. [MobileNet](/Vision/Classification/MobileNet)
 ## Object detection
 
 1. [RetinaFace](/RetinaFace)
