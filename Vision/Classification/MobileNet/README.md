@@ -6,11 +6,9 @@ Models from here: https://github.com/onnx/models/tree/main/vision/classification
 Image samples can be found here : https://github.com/EliSchwartz/imagenet-sample-images
 
 ## Inference result
-<img src="result1.jpg"/>
+<img src="result1.jpg"/> <img src="result2.jpg"/>
 
-<img src="result2.jpg"/>
-
-<img src="result3.jpg"/>
+<img src="result3.jpg"/> <img src="result4.jpg"/>
 
 ## Graph
 
