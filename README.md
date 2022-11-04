@@ -8,6 +8,8 @@ Ready environments for [Dendrite](https://github.com/fel88/Dendrite)
 ## Object detection
 
 1. [RetinaFace](/RetinaFace)
+2. [Yolo](/Vision/Detection/Yolo)
+
 ## Image processing
 
 1. [MonoDepth](/MonoDepth)
