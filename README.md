@@ -19,6 +19,10 @@ Ready environments for [Dendrite](https://github.com/fel88/Dendrite)
 
 1. [CRAFT](/CRAFT)
 
+## Instance segmentation
+
+1. [Mask R-CNN](/Vision/Segmentation/MaskRCNN)
+
 # How to use 
 ## Single image process
 1. Load .den file to Dendrite (Model->Inference->Simple)
